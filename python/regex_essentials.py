@@ -14,3 +14,5 @@ re.sub(r'some text$', '', text)
 re.sub(r'\d+[\.\/-]\d+[\.\/-]\d+', '', 'Today is 14-07-2021')
 re.sub(r'\d+[\.\/-]\d+[\.\/-]\d+', '', 'Today is 14/07/2021')
 re.sub(r'\d+[\.\/-]\d+[\.\/-]\d+', '', 'Today is 14.07.2021')
+
+# remove url 
